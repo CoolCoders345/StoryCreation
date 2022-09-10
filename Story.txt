@@ -1,3 +1,11 @@
-i hello. I am Oviya. I am in class.
-I am 15 years old. How are you? I am good.  
-Hello again. 
+ls = list (names all files in the folder)
+log = log (tells how many changes were made and when)
+vi = visual instrument (allows to type in document- the physical change)
+mkdir = make directory (makes file)
+add = adds (adds changes)
+commit = commit (commits it -idk)
+push = push (replaces old document with new document)
+pwd = present working directory (shows what file you are working on)
+status = status (whether document has been modified or not)
+cd = change directory (changes file that you are on- like downloads to internal)
+init = intialize (creates repository in github)
